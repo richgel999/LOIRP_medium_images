@@ -1,5 +1,5 @@
 # LOIRP_medium_images
-Lunar Orbiter Image Recovery Project (LOIRP) Medium (Browser) Images
+Lunar Orbiter Image Recovery Project (LOIRP) Medium (Browser) Images - LO1
 
 Data mirrored from:<br>
 https://pds-imaging.jpl.nasa.gov/data/lo/LO_1001/
